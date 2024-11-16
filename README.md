@@ -36,6 +36,12 @@ a = ȳ - b⋅x̄
 
 Where x̄ = (x₁ + x₂ + ... + xₙ)/n and ȳ = (y₁ + y₂ + ... + yₙ)/n represent the arithmetic means of the x and y coordinates of the given points.
 
+<p align="center">
+  <img src="ex1.png" alt="Linear Regression" width="300">
+  <br>
+  <em>Linear Regression</em>
+</p>
+
 ---
 
 ## Tasks📝
