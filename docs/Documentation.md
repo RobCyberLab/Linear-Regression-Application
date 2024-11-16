@@ -129,12 +129,12 @@
 - **Visualization** of both the data points and the trend lines is presented in the form of plots. The trend lines will be clearly visible in contrasting colors to indicate the direction of the relationship between the points.
 
 <p align="center">
-  <img src="ex1.png" alt="something" width="500">
+  <img src="ex1.png" alt="something" width="700">
   <br>
   <em>Linear Regression: Ascending Slope</em>
   <br>
   <br>
-  <img src="ex2.png" alt="something" width="500">
+  <img src="ex2.png" alt="something" width="700">
   <br>
   <em>Linear Regression: Descending Slope</em>
 </p>
